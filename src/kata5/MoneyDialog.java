@@ -14,6 +14,6 @@ public class MoneyDialog extends JPanel {
     }
 
     private JTextField createTextEdit() {
-        return new JTextField(15);
+        return new JTextField(10);
     }
 }
